@@ -1,0 +1,29 @@
+/* Fill CSS here */
+
+#container{
+    display: flex;
+}
+#tr{
+   
+    background-color: rgb(11, 51, 116);
+    color: white;
+}
+form{
+    
+    padding: 10px;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.359);
+    
+}
+#submit{
+    background-color: rgb(11, 51, 116);
+    color: white;
+    display: block;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 8px;
+    border-radius: 100px;
+
+}
+#table{
+    text-align: center;
+}
